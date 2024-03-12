@@ -23,6 +23,8 @@
           prefstore-partitio = { };
           prefstore-hikari = { };
           prefstore-ritsu = { };
+
+          skipCIBuilds = lib.id true;
         };
     };
 }
