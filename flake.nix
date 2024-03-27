@@ -20,6 +20,7 @@
           minioyster = { };
 
           prefstore-crick = { };
+          prefstore-luoxiaohei = { };
           prefstore-partitio = { };
           prefstore-hikari = { };
           prefstore-ritsu = { };
