@@ -19,6 +19,7 @@
         {
           minioyster = { };
 
+          prefstore-bootstrap = { };
           prefstore-crick = { };
           prefstore-luoxiaohei = { };
           prefstore-partitio = { };
